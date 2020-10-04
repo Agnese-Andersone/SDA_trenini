@@ -27,7 +27,7 @@ public class Arrays_Exercises {
     //3. uzd
     public static void arrays3(int... a) {
         System.out.println("\n 3. uzd. All odd values");
-        
+
         for (int i = 0; i < (int) a.length; i++) {
             if ((int) a[i] % 2 != 0) {
                 System.out.println(a[i]);

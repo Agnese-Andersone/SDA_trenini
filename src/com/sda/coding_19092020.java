@@ -36,7 +36,7 @@ public class coding_19092020 {
         Loop_Exercises.loop7();
         Loop_Exercises.loop8(4);
         Loop_Exercises.loop9(4);
-        Loop_Exercises.loop10(5);*/
+        Loop_Exercises.loop10(5);
         Arrays_Exercises.arrays1(1,7,3,10,9);
         Arrays_Exercises.arrays2(1,7,3,10,9);
         Arrays_Exercises.arrays3(1,7,3,10,9);
@@ -47,6 +47,21 @@ public class coding_19092020 {
         Arrays_Exercises.arrays8();
         Arrays_Exercises.arrays9();
         Arrays_Exercises.arrays10(6);
+        Last_coding_exercises.bmiCalc(60, 158);
+        Last_coding_exercises.calc(1,4,3);
+        Last_coding_exercises.fizzBuzz2(25);
+        Last_coding_exercises.sumOfHarm(6);
+        Last_coding_exercises.task8Calc();
+        Last_coding_exercises.starsWave(15);
+        Last_coding_exercises.task10(1234568);
+        Last_coding_exercises.task11();
+        Last_coding_exercises.task12();
+        Last_coding_exercises.task13();
+        Last_coding_exercises.task14();
+        Last_coding_exercises.task15();
+        Last_coding_exercises.task16();
+        Last_coding_exercises.task18();*/
+        Last_coding_exercises.task20();
 
 
     }
