@@ -60,8 +60,9 @@ public class coding_19092020 {
         Last_coding_exercises.task14();
         Last_coding_exercises.task15();
         Last_coding_exercises.task16();
-        Last_coding_exercises.task18();*/
-        Last_coding_exercises.task20();
+        Last_coding_exercises.task18();
+        Last_coding_exercises.task20();*/
+        Last_coding_exercises.task17();
 
 
     }
